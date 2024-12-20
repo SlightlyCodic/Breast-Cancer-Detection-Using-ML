@@ -18,8 +18,6 @@ Welcome to the **Breast Cancer Detection Application** project! This project imp
 3. [Technologies Used](#technologies-used)
 4. [Dataset](#dataset)
 5. [Model Details](#model-details)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
